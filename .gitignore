@@ -1,4 +1,22 @@
+# Backup
 backups/
 backup.log
-devices.csv
-.env
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Virtual environment
+env/
+venv/
+.venv/
+ENV/
+
+#CSV
+*.csv
