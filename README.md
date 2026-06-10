@@ -26,3 +26,11 @@ This project is designed for lab environments, production networks, and portfoli
 ---
 
 ## 🏗 Project Structure
+✅ Supported device types:
+        Cisco devices: cisco_ios
+        Mikrotik devices: mikrotik_routeros
+
+ip,device_type
+192.168.1.1,cisco_ios
+192.168.1.2,mikrotik_routeros
+
